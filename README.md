@@ -11,7 +11,7 @@ Using only HTML, CSS and JavaScript, create a simple tool which takes three inpu
 http://google.com#src=PSV&team=info@progate.com
 
 ## Required Features
-* 'Generated URL' is automatically created/updated as user enters the parameters
+* 'Generated URL' is created/updated in real-time as user enters the parameters
 * 'Copy URL' button which copies the generated URL to the clipboard.
 * Create UI similar to this mockup: 
 
