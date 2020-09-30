@@ -20,7 +20,7 @@ http://google.com#src=PSV&team=info@progate.com
 * Input validation (ex - Show an error  if 'Original URL' is not a link or 'Team' is not an email)
 * 'Copy URL' button which copies the generated URL to the clipboard.
 
-## How to contribute?
+## How To Contribute?
 1. Fork this repository.
 2. Add your HTML code in index.html, CSS in stylesheet.css and JavaScript in script.js files respectively.
 3. Make a pull request.
@@ -29,7 +29,7 @@ http://google.com#src=PSV&team=info@progate.com
 
 **Note for the contributors:** To encourage everyone to try their best, we are not reviewing or merging pull requests at this time. Please feel free to make a pull request once you've made some changes in this project.
 
-## Absolute beginner?
+## Absolute Beginner?
 
 Today is a great day to start. If you are new to HTML, CSS and JavaScript - 
 
